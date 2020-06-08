@@ -1,6 +1,6 @@
 {
   "name": "npm-test-kino",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "npm test to publish package",
   "main": "index.js",
   "scripts": {
